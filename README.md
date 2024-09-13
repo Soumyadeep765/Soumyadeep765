@@ -1,6 +1,5 @@
-# Welcome to Soumyadeep Das's GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1500x400?text=Profile+Banner) <!-- Replace with your own banner -->
 
 ## About Me
 
