@@ -47,7 +47,7 @@ Check out my Telegram channel providing free APIs for all:
 Connect with me through:
 
 - [LinkedIn](https://www.linkedin.com/in/soumyadeepdas765) <!-- Replace with your LinkedIn profile -->
-- [Twitter](https://twitter.com/soumyadeepdas765) <!-- Replace with your Twitter profile -->
+- [Twitter](https://twitter.com/soumyadeep765) <!-- Replace with your Twitter profile -->
 - [Email](mailto:soumyadeepdas765@gmail.com) <!-- Replace with your email -->
 
 ## 🚀 Current Focus
