@@ -1,65 +1,95 @@
-# Welcome to My GitHub Profile! 👋
+<div align="center">
+  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3FA6E6&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadeep765;A+Passionate+Developer+from+India+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://github.com/Soumyadeep765?tab=followers">
+    <img src="https://img.shields.io/github/followers/Soumyadeep765?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Soumyadeep765">
+    <img src="https://komarev.com/ghpvc/?username=Soumyadeep765&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
-## About Me
+</div>
 
-I'm **Soumyadeep Das**, a professional **bot developer** skilled in a variety of technologies. I excel in creating sophisticated bots and innovative solutions. My expertise includes:
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Soumyadeep765&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+</div>
 
-- **Languages**: Python, PHP, JavaScript, HTML, CSS
-- **Frameworks**: Node.js, Express, Laravel
-- **Tools**: Git, Docker, Vercel, Heroku
-- **Databases**: MySQL, MongoDB, PostgreSQL
+## 📊 GitHub Statistics
 
-## 🛠️ Skills & Technologies
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep765&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep765&theme=tokyonight&hide_border=true" />
+</p>
 
-### Languages & Frameworks
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep765&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
-| Language/Framework | Badge |
-| ------------------ | ----- |
-| Python             | ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python) |
-| PHP                | ![PHP](https://img.shields.io/badge/PHP-7.4-blue?style=flat&logo=php) |
-| JavaScript         | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) |
-| HTML               | ![HTML5](https://img.shields.io/badge/HTML5-5-orange?style=flat&logo=html5) |
-| CSS                | ![CSS3](https://img.shields.io/badge/CSS3-3-blue?style=flat&logo=css3) |
-| Node.js            | ![Node.js](https://img.shields.io/badge/Node.js-14-green?style=flat&logo=node.js) |
+## 💻 Tech Stack
 
-### Tools & Platforms
+<div align="center">
 
-| Tool/Platform      | Badge |
-| ------------------ | ----- |
-| Git                | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| Replit             | ![Docker](https://img.shields.io/badge/replit-000000?style=flat&logo=replit&logoColor=orange) |
-| Vercel             | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
-| Heroku             | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) |
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌐 Telegram Channel
+</div>
 
-Check out my Telegram channel providing free APIs for all:
+## 📈 Contribution Graph
 
-- **[@Teleservices_Api](https://t.me/Teleservices_Api)**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeep765&theme=react-dark&hide_border=true" width="100%"/>
 
-## 📈 GitHub Stats
+## 🌟 GitHub Metrics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumyadeep765&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadeep765&theme=github_dark" />
+</p>
 
-## 📫 Get in Touch
+<p align="center">
+  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadeep765&theme=github_dark" />
+  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadeep765&theme=github_dark" />
+</p>
 
-Connect with me through:
+## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/soumyadeep-das-495339254?trk=contact-info) <!-- Replace with your LinkedIn profile -->
-- [Twitter](https://twitter.com/soumyadeep765) <!-- Replace with your Twitter profile -->
-- [Email](mailto:soumyadeepdas765@gmail.com) <!-- Replace with your email -->
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](your-twitter-url)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
 
-## 🚀 Current Focus
+</div>
 
-- Developing advanced bots and APIs
-- Exploring new technologies and frameworks
+## 💭 Random Dev Quote
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🏆 Achievements
-
-- Created and managed a successful Telegram channel providing free API access.
-- Developed multiple advanced bots and tools for various applications.
+</div>
 
 ---
 
-Thank you for visiting my GitHub profile! 😊
+<div align="center">
+
+
+### ⚡ Fun Fact
+*"There are around 700 different programming languages!, but i don't know anything 🙂"*
+
+</div>
+
+---
+
+
+### Show some ❤️ by starring repositories you find interesting!
+
+</div>
