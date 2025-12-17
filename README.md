@@ -21,7 +21,8 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep765&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep765&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Primeraj&theme=tokyonight&hide_border=true" alt="Commit Streak" />
+  
 </p>
 
 <div align="center">
